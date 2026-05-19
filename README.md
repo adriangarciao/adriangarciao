@@ -18,8 +18,8 @@ Backend-focused developer and rising senior at DePaul University, with full-stac
 
 ## GitHub Stats
 
-![Adrian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adriangarciao&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adriangarciao&layout=compact&hide_border=true)
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
 
 ---
 
