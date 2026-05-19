@@ -1,4 +1,4 @@
-# Adrian
+# Adrian Garcia-Ontiveros
 
 Backend-focused developer and rising senior at DePaul University, with full-stack experience across React/Next.js, Java/Spring Boot, and PostgreSQL. Exploring DevOps and cloud infrastructure as a long-term specialization.
 
